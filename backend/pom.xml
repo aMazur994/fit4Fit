@@ -8,9 +8,9 @@
         <version>3.2.4</version>
     </parent>
     <groupId>com.gjm</groupId>
-    <artifactId>shelter-brain-backend</artifactId>
+    <artifactId>fit4Fit-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>shelter-brain-backend</name>
+    <name>fit4Fit-backend</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
